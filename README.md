@@ -9,8 +9,8 @@ Here are some ideas to get you started:
 -->
 
 - 😄 Pronouns: he/him/his
-- 💬 Ask me about [Lexiconga](https://lexicon.ga)
-- 🔭 I’m currently working on [Readlebee](https://readlebee.buzz)
+- 💬 Ask me about [Feather Wiki](https://feather.wiki)
+- 🔭 I’m currently working on [Touchstone IQ](https://touchstoneiq.com)
 - 👍 Check out my [personal portfolio](https://robbie.antenesse.net)
 - 🤔 I’m looking for help with [ActivityPub](https://www.w3.org/TR/activitypub/)
 - ⚡ Fun fact: I'm pretty sure I'm the only "Robbie Antenesse" alive on earth!
